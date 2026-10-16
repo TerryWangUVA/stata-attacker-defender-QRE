@@ -1,2 +1,5 @@
 # stata-attacker-defender-QRE
-vibed garbage pile
+
+for presentation in Behavioral ECON class...
+
+A Stata simulation of quantal-response agents (following Bayesian updating rules) in a simple attacker-defender game... 
